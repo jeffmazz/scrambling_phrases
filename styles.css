@@ -29,6 +29,7 @@ body {
     padding: 10px 20px;
     border: 1px solid #FFF;
     border-radius: 5px;
+    box-shadow: 0 0 5px 0 #FFF;
     cursor: pointer;
     transition: .4s;
 }
@@ -44,5 +45,6 @@ body {
 }
 
 .scrambled_text {
-    
+    color: #FFF;
+    text-shadow: 1px 1px 0 rgba(255,255,255,.5);
 }
