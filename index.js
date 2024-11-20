@@ -1,7 +1,7 @@
 const button = document.querySelector('.button')
 const scrambled_text = document.querySelector('.scrambled_text')
 
-const phrases = ["Hello, World!", "You're Welcome!", "Go Brazil!"]
+const phrases = ["Hello, World!", "You're Welcome!", "Coding is fun!", "Let's build something great!", "Code. Test. Repeat.", "Never stop learning."]
 const characters = "abcdefghijklmnopqrstuvwxyz ,'"
 
 let selectedPhrase = []
